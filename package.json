@@ -1,0 +1,16 @@
+{
+  "name": "project-platzi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-preset-latest-minimal": "^1.1.2",
+    "babel-preset-react": "^6.16.0",
+    "json-loader": "^0.5.4",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0"
+  }
+}
